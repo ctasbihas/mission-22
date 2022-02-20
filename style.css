@@ -1,0 +1,109 @@
+body{
+     margin: 0 auto;
+     font-family: poppins;
+}
+
+.half-width{
+     width: 50%;
+     margin: 0 auto;
+}
+.half-width img{
+     width: 70%;
+}
+.intro-banner{
+     display: flex;
+     justify-content: center;
+     margin: 0 0 0 110px;
+}
+.half-width h1{
+     font-size: 60px;
+     border-left: 5px solid tomato;
+     padding-left: 10px;
+}
+.h1{
+     font-size: 60px;
+     text-align: center;
+}
+.orange-color{
+     color: tomato;
+}
+button{
+     color: white;
+     background-color: #FF5959;
+     border-radius: 5px;
+     border: none;
+     height: 50px;
+     width: 140px;
+}
+.mi-vi-go img{
+     height: 120px;
+     width: 120px;
+}
+.mi-vi-go{
+     display: flex;
+     justify-content: center;
+     margin: 5px auto;
+}
+.mission{
+     height: 350px;
+     width: 315px;
+     background-color: rgba(47, 200, 238, 0.411);
+     border-radius: 10px;
+     margin: 10px;
+     padding: 0 5px 0 10px;
+}
+.vission{
+     height: 350px;
+     width: 315px;
+     background-color: rgba(47, 238, 56, 0.384);
+     border-radius: 10px;
+     margin: 10px;
+     padding: 0 5px 0 10px;
+}
+.goals{
+     height: 350px;
+     width: 315px;
+     background-color: rgba(238, 47, 56, 0.24);
+     border-radius: 10px;
+     margin: 10px;
+     padding: 0 5px 0 10px;
+}
+.third-sec{
+     display: flex;
+     background-image: url(images/shapes/shape-1.png);
+     background-repeat: no-repeat;
+     background-size: 200px;
+     background-position: left;
+}
+.third-sec img{
+     margin: 30px 0 0 60px;
+     height: 90%;
+}
+.de-wi-li{
+     margin-top: 20px;
+     width: 400px;
+}
+.h2{
+     font-size: 40px;
+}
+.button{
+     width: 180px;
+}
+.project{
+     background-image: url(images/shapes/shape-1.png);
+     background-repeat: no-repeat;
+     background-size: 200px;
+     background-position: right bottom;
+}
+.project img{
+     margin-left: 50px;
+}
+.go-corona{
+     display: flex;
+}
+footer{
+     text-align: center;
+     background-color: black;
+     color: white;
+     margin-bottom: 0;
+}
